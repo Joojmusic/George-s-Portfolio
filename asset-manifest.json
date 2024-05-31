@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3642189.css",
+    "main.js": "/static/js/main.dc17aec2.js",
+    "static/js/592.4d5de66d.chunk.js": "/static/js/592.4d5de66d.chunk.js",
+    "static/media/Calculator.png": "/static/media/Calculator.6e3236a7839244046a29.png",
+    "static/media/QuizApp2.png": "/static/media/QuizApp2.30924e9e3071fae2691a.png",
+    "static/media/chessGame.png": "/static/media/chessGame.9dc97a4bcfcad735070e.png",
+    "static/media/Blackjack.png": "/static/media/Blackjack.f41d0de917dfcf4fffca.png",
+    "static/media/MusicPlayer.png": "/static/media/MusicPlayer.29a1edf14e5b4a20d281.png",
+    "static/media/FlappyBird.png": "/static/media/FlappyBird.4dbbec27e607ccf6ddec.png",
+    "static/media/GradeConvertor.png": "/static/media/GradeConvertor.14aa38271c4dcb9647e1.png",
+    "static/media/Gelists.png": "/static/media/Gelists.d5ac3c802025f972256e.png",
+    "static/media/imageManipulator.png": "/static/media/imageManipulator.5f8104cf90222bf8a08b.png",
+    "static/media/Snake.png": "/static/media/Snake.5629242fff7f51572176.png",
+    "static/media/RedditSans-Bold.ttf": "/static/media/RedditSans-Bold.bd037c1223952067539b.ttf",
+    "static/media/RedditSans-SemiBold.ttf": "/static/media/RedditSans-SemiBold.dcc4f401ae63dc99d93c.ttf",
+    "static/media/RedditSans-Light.ttf": "/static/media/RedditSans-Light.bd12ede2a52017ef15f3.ttf",
+    "static/media/RedditSans-Regular.ttf": "/static/media/RedditSans-Regular.1be150b2097e3863a371.ttf",
+    "static/media/RedditSans-MediumItalic.ttf": "/static/media/RedditSans-MediumItalic.85637851fcbd07b76c72.ttf",
+    "static/media/ColorPicker.png": "/static/media/ColorPicker.18951ff3f8dd314f0e4e.png",
+    "static/media/Python.png": "/static/media/Python.52d7bb207f9868b90e39.png",
+    "static/media/Notepad.png": "/static/media/Notepad.bfbb2748cae2bc6c6683.png",
+    "static/media/potplayer.png": "/static/media/potplayer.5d9bfe0aff1124eba938.png",
+    "static/media/QuizApp.png": "/static/media/QuizApp.fd90dbebed153b555dfc.png",
+    "static/media/Cpp.png": "/static/media/Cpp.2b2276395e116be80813.png",
+    "static/media/Html.png": "/static/media/Html.aa710682752a18d5add3.png",
+    "static/media/Java.png": "/static/media/Java.fdabd4e11f1235e4e8e0.png",
+    "static/media/Cs.png": "/static/media/Cs.5a45dfbe7dbab84acddf.png",
+    "static/media/Javascript.png": "/static/media/Javascript.31c81075366a39d39b47.png",
+    "static/media/dotnet_bot.png": "/static/media/dotnet_bot.03c5559aa0ffde72a431.png",
+    "static/media/logo.png": "/static/media/logo.0b8830dda0821ceb0200.png",
+    "index.html": "/index.html",
+    "main.b3642189.css.map": "/static/css/main.b3642189.css.map",
+    "main.dc17aec2.js.map": "/static/js/main.dc17aec2.js.map",
+    "592.4d5de66d.chunk.js.map": "/static/js/592.4d5de66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3642189.css",
+    "static/js/main.dc17aec2.js"
+  ]
+}
