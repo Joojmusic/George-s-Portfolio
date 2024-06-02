@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3642189.css",
-    "main.js": "/static/js/main.dc17aec2.js",
+    "main.css": "/static/css/main.e103350a.css",
+    "main.js": "/static/js/main.275d619b.js",
     "static/js/592.4d5de66d.chunk.js": "/static/js/592.4d5de66d.chunk.js",
+    "static/media/bg1.jpg": "/static/media/bg1.fea9d13a254e673621af.jpg",
     "static/media/Calculator.png": "/static/media/Calculator.6e3236a7839244046a29.png",
     "static/media/QuizApp2.png": "/static/media/QuizApp2.30924e9e3071fae2691a.png",
     "static/media/chessGame.png": "/static/media/chessGame.9dc97a4bcfcad735070e.png",
@@ -31,12 +32,12 @@
     "static/media/dotnet_bot.png": "/static/media/dotnet_bot.03c5559aa0ffde72a431.png",
     "static/media/logo.png": "/static/media/logo.0b8830dda0821ceb0200.png",
     "index.html": "/index.html",
-    "main.b3642189.css.map": "/static/css/main.b3642189.css.map",
-    "main.dc17aec2.js.map": "/static/js/main.dc17aec2.js.map",
+    "main.e103350a.css.map": "/static/css/main.e103350a.css.map",
+    "main.275d619b.js.map": "/static/js/main.275d619b.js.map",
     "592.4d5de66d.chunk.js.map": "/static/js/592.4d5de66d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3642189.css",
-    "static/js/main.dc17aec2.js"
+    "static/css/main.e103350a.css",
+    "static/js/main.275d619b.js"
   ]
 }
